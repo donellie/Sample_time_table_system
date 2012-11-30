@@ -1,0 +1,7 @@
+cmp-1212 Computer-Logics 1 1
+csp-1001 comunity-service 1 1
+xup-1212 Physics 4 2
+qwe-1234 computer 2 2
+ynp-1212 Data-Structures 5 3
+pmp-1212 Mathematics 6 3
+arp-1212 Professional-Ethics 2 4
